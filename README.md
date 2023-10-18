@@ -1,6 +1,9 @@
 # ProfileAuthenticator
 ProfileAuthenticator is a Java application that provides user authentication and registration capabilities, allowing users to create and manage their profiles securely. The application is built with a graphical user interface (GUI) and utilizes a MySQL database to store user data securely.
 
+![Screenshot 2023-10-18 004116](https://github.com/anochronos/ProfileAuthenticator/assets/135464796/c2fe8003-73bb-419a-b3f8-a56b02083032)
+
+
 ## Features
 
 - User Registration: Users can create new profiles by providing their first name, last name, date of birth, username, and password. The application securely stores user passwords as hashed values in the database.
@@ -10,6 +13,7 @@ ProfileAuthenticator is a Java application that provides user authentication and
 - Secure Password Handling: Passwords are securely hashed using the SHA-256 algorithm before storing them in the database. This ensures that user passwords are not stored in plain text.
 
 - User Profile Management: Users can view and update their profiles, including changing their passwords.
+  
 
 ## Demo-Video
 
